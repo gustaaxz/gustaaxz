@@ -11,7 +11,7 @@ Eu amo me conectar com novas tecnologias, e acima de tudo, ficar entre elas, par
 *   **Frontend:** <br>
 ![](https://skillicons.dev/icons?i=html,css,js)
 *   **Backend:** <br>
-![](https://skillicons.dev/icons?i=java)
+![](https://skillicons.dev/icons?i=java,mysql)
 *   **Ferramentas:** <br>
 ![](https://skillicons.dev/icons?i=vscode,github,notion)
 

@@ -8,11 +8,12 @@ Eu amo me conectar com novas tecnologias, e acima de tudo, ficar entre elas, par
 
 ### 🛠️ Minhas Tecnologias
 
-![](https://skillicons.dev/icons?i=js,html,css,java,notion,vscode,github)
-
-*   **Frontend:** HTML, CSS, JavaScript
-*   **Backend:** Java
-*   **Ferramentas:** VSCode, GitHub, Notion
+*   **Frontend:** <br>
+![](https://skillicons.dev/icons?i=html,css,js)
+*   **Backend:** <br>
+![](https://skillicons.dev/icons?i=java)
+*   **Ferramentas:** <br>
+![](https://skillicons.dev/icons?i=vscode,github,notion)
 
 ---
 

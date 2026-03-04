@@ -9,13 +9,13 @@
 
 | **Frontend** | **Backend & Database** | **Tools & Workflow** |
 | :--- | :--- | :--- |
-| ![](https://skillicons.dev/icons?i=html,css,js,figma) | ![](https://skillicons.dev/icons?i=java,mysql) | ![](https://skillicons.dev/icons?i=vscode,github,notion,git) |
+| ![](https://skillicons.dev/icons?i=html,css,js,figma) | ![](https://skillicons.dev/icons?i=java,mysql) | ![](https://skillicons.dev/icons?i=vscode,github,notion) |
 
 ---
 
 ### 🔭 Foco & Atuação
 
-* 🌱 **Foco Atual:** HTML, CSS, JS, Java.
+* 🌱 **Foco Atual:** HTML, CSS, JS, Java, Figma.
 * 🚀 **Atuação:** Desenvolvimento de sistemas web e design de interfaces.
 * ☕ **Interesses:** PC, Notebook, Café, Filmes, entre outros.
 

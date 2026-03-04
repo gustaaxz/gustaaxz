@@ -1,32 +1,36 @@
-# Olá, eu sou o Gustavo Schmitt Hatschbach! 👋
+# Gustavo Schmitt Hatschbach
 
-### 🚀 Desenvolvedor de Sistemas Web
-
-Eu amo me conectar com novas tecnologias, e acima de tudo, ficar entre elas, para poder aprender muito mais e inovar dia após dia no ramo da tecnologia.
+* 🚀 Explorando a intersecção entre design e código para criar experiências digitais inovadoras. Atualmente focado em arquitetura web e soluções escaláveis.
 
 ---
 
-## 🛠️ Minhas Tecnologias
+### 🛠️ Minhas Habilidades
 
-*    **Frontend:** <br>
-![](https://skillicons.dev/icons?i=html,css,js)
-*    **Backend:** <br>
-![](https://skillicons.dev/icons?i=java,mysql)
-*    **Ferramentas:** <br>
-![](https://skillicons.dev/icons?i=vscode,github,notion)
+- **Frontend** <br>
+[![](https://skillicons.dev/icons?i=html,css,js,figma)](https://skillicons.dev)
 
----
+- **Backend & Database** <br>
+[![](https://skillicons.dev/icons?i=java,mysql)](https://skillicons.dev)
 
-### 🤝 Vamos nos conectar?
-
-Gmail - gustavo_hatschbach@estudante.sesisenai.org.br <br>
-X/Twitter - https://x.com/gustaaazxx <br>
-LinkedIn - https://www.linkedin.com/in/gustavosch
+- **Tools & Workflow** <br>
+[![](https://skillicons.dev/icons?i=vscode,github,notion)](https://skillicons.dev)
 
 ---
 
-### ⚡ Curiosidades
-- 🔭 Atualmente trabalhando em **[Desenvolvimento de Sistemas Web]**
-- 🌱 Aprendendo sobre **[Java, JS, HTML, CSS e MySQL]**
-- 💬 Pergunte-me sobre **[Jogos, filmes, entre outros]**
-- ⚡ Curiosidade: [Gosto de café 😀]
+### 🔭 Projetos & Aprendizado
+
+* 🌱 **Foco Atual:** HTML, CSS, JS, Java.
+* 🚀 **Atuação:** Desenvolvimento de sistemas web e design de interfaces.
+* ☕ **Interesses:** PC, Notebook, Café, Filmes, entre outros.
+
+---
+
+### 🤝 Conecte-se comigo
+
+<p align="left">
+<a href="mailto:gustavo_hatschbach@estudante.sesisenai.org.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" hspace="5"></a>
+<a href="https://www.linkedin.com/in/gustavosch"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" hspace="5"></a>
+<a href="https://x.com/gustaaazxx"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" hspace="5"></a>
+</p>
+
+---

@@ -1,5 +1,4 @@
-
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1d8ab9298f4486dea3dd0cc8e0645b96acb5e39b68bcb246673ec9e941d69a7f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d323263353565266865696768743d3135302673656374696f6e3d686561646572"><img src="https://camo.githubusercontent.com/1d8ab9298f4486dea3dd0cc8e0645b96acb5e39b68bcb246673ec9e941d69a7f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d323263353565266865696768743d3135302673656374696f6e3d686561646572" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=22c55e&amp;height=150&amp;section=header" style="max-width: 100%;"></a>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE2ZDRxMDB2c2U2eHJ6c3ViZmFtcjZsemNmcmFuNTBndTdnejBxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cdljbmPXd67vcwFPYc/giphy.gif" width="100%" height="auto" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=22c55e&amp;height=150&amp;section=header" style="max-width: 100%;"></a>
 <h1 align="center"><span style="color: #61DAFB;">Gustavo</span> Schmitt Hatschbach</h1>
 
 <p align="center">

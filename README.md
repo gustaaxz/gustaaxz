@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE2ZDRxMDB2c2U2eHJ6c3ViZmFtcjZsemNmcmFuNTBndTdnejBxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cdljbmPXd67vcwFPYc/giphy.gif" width="100%" height="auto" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=22c55e&amp;height=150&amp;section=header" style="max-width: 100%;"></a>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p0Z3N1bWJrb2J4eGRiMzBzdjJsNnRieXgycHc4dnYxMHFsdzJrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pB8b6kLaFMpRPr2M6J/giphy.gif" width="100%" height="auto" style="max-width: 100%;"></a>
 <h1 align="center"><span style="color: #61DAFB;">Gustavo</span> Schmitt Hatschbach</h1>
 
 <p align="center">

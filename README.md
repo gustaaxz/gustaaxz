@@ -49,3 +49,5 @@ Explorando a intersecção entre <span style="color: #F0DB4F;">design</span> e <
 <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5b13906c3d520df2d045da22ab6985f4799d8452fe7391a8d9ae97f34e90f026/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d313636353334266865696768743d3132302673656374696f6e3d666f6f746572"><img src="https://camo.githubusercontent.com/5b13906c3d520df2d045da22ab6985f4799d8452fe7391a8d9ae97f34e90f026/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d313636353334266865696768743d3132302673656374696f6e3d666f6f746572" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=166534&amp;height=120&amp;section=footer" style="max-width: 100%;"></a>
 </p>
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)

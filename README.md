@@ -11,7 +11,7 @@
 
 ### <span style="color: #61DAFB;">🚀</span> Sobre Mim
 
-Explorando a intersecção entre <span style="color: #F0DB4F;">design</span> e <span style="color: #007396;">código</span> para criar experiências digitais inovadoras. Atualmente focado em arquitetura web e soluções escaláveis.
+Sou um estudante de Desenvolvimento de Sistemas Web no CentroWEG que sonha em ser Desenvolvedor Front-End, buscando conhecimento e aprimorar as habilidades em HTML, CSS e JS, visando participar de projetos multi-nacionais e viajar para outros países com o Front-End.
 
 ---
 

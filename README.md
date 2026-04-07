@@ -16,14 +16,7 @@ Sou um estudante de Desenvolvimento de Sistemas Web no CentroWEG que sonha em se
 
 ### <span style="color: #61DAFB;">🛠️</span> Minhas Habilidades
 
-- **<span style="color: #61DAFB;">Frontend</span>** <br>
-[![](https://skillicons.dev/icons?i=html,css,js,figma)](https://skillicons.dev)
-
-- **<span style="color: #007396;">Backend</span> & <span style="color: #00618A;">Database</span>** <br>
-[![](https://skillicons.dev/icons?i=java,mysql)](https://skillicons.dev)
-
-- **<span style="color: #90A4AE;">Tools</span> & <span style="color: #607D8B;">Workflow</span>** <br>
-[![](https://skillicons.dev/icons?i=vscode,github,notion)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,js,figma,java,mysql,vscode,github,notion)](https://skillicons.dev)
 
 ---
 

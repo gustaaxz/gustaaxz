@@ -1,53 +1,51 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Gustavo%20Hatschbach&fontSize=70" width="100%"/>
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZjg5ZnpqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Gustavo%20Hatschbach&fontSize=60&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Localização-Brasil-blue?style=for-the-badge" alt="Localização">
-  <a href="https://github.com/gustaaxz?tab=followers"><img src="https://img.shields.io/github/followers/gustaaxz?label=Seguidores&style=for-the-badge&color=61DAFB" alt="Seguidores GitHub"></a>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Estudante+de+Software+Web;Aspirante+a+Front-End+Developer;Apaixonado+por+Design+e+C%C3%B3digo;Bem-vindo+ao+meu+espa%C3%A7o!" alt="Typing SVG" />
+</div>
 
 ---
 
 ### 🚀 Sobre Mim
-
-Sou um estudante de **Desenvolvimento de Sistemas Web no CentroWEG** e aspirante a **Desenvolvedor Front-End**. Meu objetivo é dominar o ecossistema Web (HTML, CSS e JS) para participar de projetos internacionais e levar minha carreira ao redor do mundo. 🌎
-
----
-
-### 🛠️ Minhas Habilidades
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,java,mysql,vscode,github,notion" />
-  </a>
-</p>
+<div align="center">
+  <p>
+    Sou um desenvolvedor em constante evolução no <b>CentroWEG</b>. Busco transformar ideias complexas em interfaces simples e elegantes. Atualmente focado em dominar o ecossistema <b>JavaScript</b> e arquiteturas modernas de Front-End.
+  </p>
+</div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🛠️ Tech Stack
 
+#### 🌐 Frontend
+[![](https://skillicons.dev/icons?i=html,css,js,figma,tailwind,bootstrap)](https://skillicons.dev)
+
+#### ⚙️ Backend & Tools
+[![](https://skillicons.dev/icons?i=java,mysql,vscode,github,notion,git)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustaaxz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustaaxz&show_icons=true&theme=radical&rank_icon=github&display_format=github-dark-dimmed" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustaaxz&layout=compact&theme=radical" />
 </p>
 
----
-
-### 🔭 Projetos & Aprendizado
-
-* 🌱 **Foco Atual:** JavaScript Avançado, React e Java.
-* 🚀 **Atuação:** Desenvolvimento de sistemas web responsivos.
-* ☕ **Interesses:** Tecnologia, Café e Filmes.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustaaxz&theme=radical" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 🤝 Conecte-se comigo
+### 🎮 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gustaaxz/gustaaxz/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</div>
 
-<p align="left">
+---
+
+### 🤝 Connect with me
+<p align="center">
   <a href="mailto:gustavo_hatschbach@estudante.sesisenai.org.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -60,5 +58,5 @@ Sou um estudante de **Desenvolvimento de Sistemas Web no CentroWEG** e aspirante
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZjg5ZnpqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svvJC/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZjg5ZnpqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svvJC/giphy.gif" width="100"/>
 </div>

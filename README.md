@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Gustavo%20Hatschbach&fontSize=60&animation=fadeIn" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZjg5ZnpqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="600"/>
+
+  <h1 align="center">Gustavo Schmitt Hatschbach</h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Estudante+de+Software+Web;Aspirante+a+Front-End+Developer;Apaixonado+por+Design+e+C%C3%B3digo;Bem-vindo+ao+meu+espa%C3%A7o!" alt="Typing SVG" />
 </div>

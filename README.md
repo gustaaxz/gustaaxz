@@ -1,40 +1,64 @@
-<h1 align="center"><span style="color: #61DAFB;">Gustavo</span> Schmitt Hatschbach</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Gustavo%20Hatschbach&fontSize=70" width="100%"/>
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZjg5ZnpqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Localização-Brasil-blue?style=flat-square" alt="Localização">
-  <a href="https://github.com/gustaaxz?tab=followers"><img src="https://img.shields.io/github/followers/gustaaxz?label=Seguidores&style=flat-square&color=61DAFB" alt="Seguidores GitHub"></a>
+  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Localização-Brasil-blue?style=for-the-badge" alt="Localização">
+  <a href="https://github.com/gustaaxz?tab=followers"><img src="https://img.shields.io/github/followers/gustaaxz?label=Seguidores&style=for-the-badge&color=61DAFB" alt="Seguidores GitHub"></a>
 </p>
 
 ---
 
-### <span style="color: #61DAFB;">🚀</span> Sobre Mim
+### 🚀 Sobre Mim
 
-Sou um estudante de Desenvolvimento de Sistemas Web no CentroWEG que sonha em ser Desenvolvedor Front-End, buscando conhecimento e aprimorar as habilidades em HTML, CSS e JS, visando participar de projetos multi-nacionais e viajar para outros países com o Front-End.
-
----
-
-### <span style="color: #61DAFB;">🛠️</span> Minhas Habilidades
-
-[![](https://skillicons.dev/icons?i=html,css,js,figma,java,mysql,vscode,github,notion)](https://skillicons.dev)
+Sou um estudante de **Desenvolvimento de Sistemas Web no CentroWEG** e aspirante a **Desenvolvedor Front-End**. Meu objetivo é dominar o ecossistema Web (HTML, CSS e JS) para participar de projetos internacionais e levar minha carreira ao redor do mundo. 🌎
 
 ---
 
-### <span style="color: #61DAFB;">🔭</span> Projetos & Aprendizado
-
-* 🌱 **Foco Atual:** <span style="color: #F0DB4F;">HTML</span>, <span style="color: #61DAFB;">CSS</span>, <span style="color: #F0DB4F;">JS</span>, <span style="color: #007396;">Java</span>.
-* 🚀 **Atuação:** Desenvolvimento de sistemas web e design de interfaces.
-* ☕ **Interesses:** PC, Notebook, <span style="color: #6F4E37;">Café</span>, Filmes, entre outros.
-
----
-
-### <span style="color: #61DAFB;">🤝</span> Conecte-se comigo
+### 🛠️ Minhas Habilidades
 
 <p align="left">
-<a href="mailto:gustavo_hatschbach@estudante.sesisenai.org.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" hspace="5"></a>
-<a href="https://www.linkedin.com/in/gustavosch"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" hspace="5"></a>
-<a href="https://x.com/gustaaazxx"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" hspace="5"></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,java,mysql,vscode,github,notion" />
+  </a>
 </p>
 
 ---
 
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustaaxz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustaaxz&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🔭 Projetos & Aprendizado
+
+* 🌱 **Foco Atual:** JavaScript Avançado, React e Java.
+* 🚀 **Atuação:** Desenvolvimento de sistemas web responsivos.
+* ☕ **Interesses:** Tecnologia, Café e Filmes.
+
+---
+
+### 🤝 Conecte-se comigo
+
+<p align="left">
+  <a href="mailto:gustavo_hatschbach@estudante.sesisenai.org.br">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gustavosch">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/gustaaazxx">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZjg5ZnpqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqZndqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svvJC/giphy.gif" width="200"/>
+</div>

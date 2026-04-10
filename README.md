@@ -25,10 +25,6 @@
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustaaxz&layout=compact&theme=radical" />
-</p>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustaaxz&theme=radical" alt="GitHub Streak" />
 </div>

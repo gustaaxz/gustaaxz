@@ -27,7 +27,7 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustaaxz&show_icons=true&theme=radical&rank_icon=github&display_format=github-dark-dimmed" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustaaxz&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustaaxz&layout=compact&theme=radical" />
 </p>
 

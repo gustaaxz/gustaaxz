@@ -2,10 +2,6 @@
 
 <h1 align="center">Gustavo Schmitt Hatschbach</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Estudante+de+Software+Web;Aspirante+a+Front-End+Developer;Apaixonado+por+Design+e+C%C3%B3digo;Bem-vindo+ao+meu+espa%C3%A7o!" alt="Typing SVG"/>
-
-<br>
-
 ---
 
 <h3 align="center">🚀 Sobre Mim</h3>
@@ -15,8 +11,6 @@
 </p>
 
 ---
-
-<h3 align="center">🛠️ Tech Stack</h3>
 
 <h4 align="center">🌐 Frontend</h4>
 <p align="center">

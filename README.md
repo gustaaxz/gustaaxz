@@ -18,9 +18,9 @@ Atualmente, curso Desenvolvimento de Sistemas para Web no **CentroWEG** e tenho 
 
 Quero desenvolver soluções orientadas às necessidades dos usuários, com atenção a **UI/UX** e à **acessibilidade**, para que todos possam navegar e interagir com autonomia. Busco aprimorar minhas habilidades a cada dia, unindo estudo e prática para transformar conhecimento em interfaces intuitivas e inclusivas.
 
-> “Nada de grandioso é criado de repente.”
+> “Posso todas as coisas naquele que me fortalece.”
 >
-> — [Epicteto, *Discursos*, I.15](https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1477/Epictetus_0755_EBk_v6.0.pdf#page=44) *(tradução livre)*
+> — *Filipenses 4:13*
 
 <br />
 

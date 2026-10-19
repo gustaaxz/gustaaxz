@@ -12,17 +12,13 @@
 
 </div>
 
-### Sobre mim
+Sobre mim
+Atualmente, curso Desenvolvimento de Sistemas para Web no CentroWEG e tenho como objetivo profissional me tornar Desenvolvedor Front-End, criando interfaces que unam funcionalidade, clareza e uma boa experiência de uso.
 
-Atualmente, curso Desenvolvimento de Sistemas para Web no **CentroWEG** e tenho como objetivo profissional me tornar **Desenvolvedor Front-End**, criando interfaces que unam funcionalidade, clareza e uma boa experiência de uso.
+Quero desenvolver soluções orientadas às necessidades dos usuários, com atenção a UI/UX e à acessibilidade, para que todos possam navegar e interagir com autonomia. Busco aprimorar minhas habilidades a cada dia, unindo estudo e prática para transformar conhecimento em interfaces intuitivas e inclusivas.
+“Nada de grandioso é criado de repente.”
+— Epicteto, Discursos, I.15 (tradução livre)
 
-Quero desenvolver soluções orientadas às necessidades dos usuários, com atenção a **UI/UX** e à **acessibilidade**, para que todos possam navegar e interagir com autonomia. Busco aprimorar minhas habilidades a cada dia, unindo estudo e prática para transformar conhecimento em interfaces intuitivas e inclusivas.
-
-> “Nada de grandioso é criado de repente.”
->
-> — [Epicteto, *Discursos*, I.15](https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1477/Epictetus_0755_EBk_v6.0.pdf#page=44) *(tradução livre)*
-
-<br />
 
 <div align="center">
 
@@ -42,6 +38,7 @@ Quero desenvolver soluções orientadas às necessidades dos usuários, com aten
         <img src="https://img.shields.io/badge/Vite-202936?style=for-the-badge&amp;logo=vite&amp;logoColor=A78BFA" alt="Vite" title="Vite" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-202936?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS" title="Tailwind CSS" />
         <img src="https://img.shields.io/badge/Bootstrap-202936?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=A78BFA" alt="Bootstrap" title="Bootstrap" />
+        <img src="https://img.shields.io/badge/jQuery-202936?style=for-the-badge&amp;logo=jquery&amp;logoColor=0769AD" alt="jQuery" title="jQuery" />
         </p>
       </td>
     </tr>
@@ -51,6 +48,9 @@ Quero desenvolver soluções orientadas às necessidades dos usuários, com aten
         <p>
         <img src="https://img.shields.io/badge/Java-202936?style=for-the-badge&amp;logo=openjdk&amp;logoColor=F89820" alt="Java" title="Java" />
         <img src="https://img.shields.io/badge/Python-202936?style=for-the-badge&amp;logo=python&amp;logoColor=F7CF4A" alt="Python" title="Python" />
+        <img src="https://img.shields.io/badge/Node.js-202936?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=5FA04E" alt="Node.js" title="Node.js" />
+        <img src="https://img.shields.io/badge/NPM-202936?style=for-the-badge&amp;logo=npm&amp;logoColor=CB3837" alt="NPM" title="NPM" />
+        <img src="https://img.shields.io/badge/JWT-202936?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=FFFFFF" alt="JWT" title="JWT" />
         </p>
       </td>
     </tr>
@@ -60,6 +60,7 @@ Quero desenvolver soluções orientadas às necessidades dos usuários, com aten
         <p>
         <img src="https://img.shields.io/badge/MySQL-202936?style=for-the-badge&amp;logo=mysql&amp;logoColor=38BDF8" alt="MySQL" title="MySQL" />
         <img src="https://img.shields.io/badge/PostgreSQL-202936?style=for-the-badge&amp;logo=postgresql&amp;logoColor=72A8D5" alt="PostgreSQL" title="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MariaDB-202936?style=for-the-badge&amp;logo=mariadb&amp;logoColor=003545" alt="MariaDB" title="MariaDB" />
         </p>
       </td>
     </tr>
@@ -72,6 +73,10 @@ Quero desenvolver soluções orientadas às necessidades dos usuários, com aten
         <img src="https://img.shields.io/badge/Oracle_VirtualBox-202936?style=for-the-badge&amp;logo=virtualbox&amp;logoColor=83B4FF" alt="Oracle VirtualBox" title="Oracle VirtualBox" />
         <img src="https://img.shields.io/badge/Linux-202936?style=for-the-badge&amp;logo=linux&amp;logoColor=FCC624" alt="Linux" title="Linux" />
         <img src="https://img.shields.io/badge/Windows_Server-202936?style=for-the-badge&amp;logo=windows&amp;logoColor=58A6FF" alt="Windows Server" title="Windows Server" />
+        <img src="https://img.shields.io/badge/AWS-202936?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=FF9900" alt="AWS" title="AWS" />
+        <img src="https://img.shields.io/badge/Vercel-202936?style=for-the-badge&amp;logo=vercel&amp;logoColor=FFFFFF" alt="Vercel" title="Vercel" />
+        <img src="https://img.shields.io/badge/Nginx-202936?style=for-the-badge&amp;logo=nginx&amp;logoColor=009639" alt="Nginx" title="Nginx" />
+        <img src="https://img.shields.io/badge/Firebase-202936?style=for-the-badge&amp;logo=firebase&amp;logoColor=FFCA28" alt="Firebase" title="Firebase" />
         </p>
       </td>
     </tr>
@@ -119,6 +124,8 @@ Quero desenvolver soluções orientadas às necessidades dos usuários, com aten
         <img src="https://img.shields.io/badge/Trello-202936?style=for-the-badge&amp;logo=trello&amp;logoColor=579DFF" alt="Trello" title="Trello" />
         <img src="https://img.shields.io/badge/Jupyter_Notebook-202936?style=for-the-badge&amp;logo=jupyter&amp;logoColor=F37626" alt="Jupyter Notebook" title="Jupyter Notebook" />
         <img src="https://img.shields.io/badge/Excel-202936?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=4BBF83" alt="Excel" title="Excel" />
+        <img src="https://img.shields.io/badge/Postman-202936?style=for-the-badge&amp;logo=postman&amp;logoColor=FF6C37" alt="Postman" title="Postman" />
+        <img src="https://img.shields.io/badge/Swagger-202936?style=for-the-badge&amp;logo=swagger&amp;logoColor=85EA2D" alt="Swagger" title="Swagger" />
         </p>
       </td>
     </tr>
@@ -136,7 +143,6 @@ Quero desenvolver soluções orientadas às necessidades dos usuários, com aten
 
 </div>
 
-<br />
 
 <h3 align="center">Projetos em destaque</h3>
 

@@ -6,7 +6,7 @@
 
   <p>
     <a href="https://www.linkedin.com/in/gustavosch"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge" alt="LinkedIn" /></a>
-    <a href="mailto:gustavo_hatschbach@estudante.sesisenai.org.br"><img src="https://img.shields.io/badge/E--mail-161B22?style=for-the-badge&amp;logo=gmail&amp;logoColor=58A6FF" alt="E-mail" /></a>
+    <a href="mailto:contatogustavosh@gmail.com"><img src="https://img.shields.io/badge/E--mail-161B22?style=for-the-badge&amp;logo=gmail&amp;logoColor=58A6FF" alt="E-mail" /></a>
     <a href="https://x.com/gustaaazxx"><img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&amp;logo=x&amp;logoColor=58A6FF" alt="X" /></a>
   </p>
 

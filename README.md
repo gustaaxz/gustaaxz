@@ -6,19 +6,23 @@
 
   <p>
     <a href="https://www.linkedin.com/in/gustavosch"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge" alt="LinkedIn" /></a>
-    <a href="mailto:contatogustavosh@gmail.com"><img src="https://img.shields.io/badge/E--mail-161B22?style=for-the-badge&amp;logo=gmail&amp;logoColor=58A6FF" alt="E-mail" /></a>
+    <a href="mailto:gustavo_hatschbach@estudante.sesisenai.org.br"><img src="https://img.shields.io/badge/E--mail-161B22?style=for-the-badge&amp;logo=gmail&amp;logoColor=58A6FF" alt="E-mail" /></a>
     <a href="https://x.com/gustaaazxx"><img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&amp;logo=x&amp;logoColor=58A6FF" alt="X" /></a>
   </p>
 
 </div>
 
-Sobre mim
-Atualmente, curso Desenvolvimento de Sistemas para Web no CentroWEG e tenho como objetivo profissional me tornar Desenvolvedor Front-End, criando interfaces que unam funcionalidade, clareza e uma boa experiência de uso.
+### Sobre mim
 
-Quero desenvolver soluções orientadas às necessidades dos usuários, com atenção a UI/UX e à acessibilidade, para que todos possam navegar e interagir com autonomia. Busco aprimorar minhas habilidades a cada dia, unindo estudo e prática para transformar conhecimento em interfaces intuitivas e inclusivas.
-“Nada de grandioso é criado de repente.”
-— Epicteto, Discursos, I.15 (tradução livre)
+Atualmente, curso Desenvolvimento de Sistemas para Web no **CentroWEG** e tenho como objetivo profissional me tornar **Desenvolvedor Front-End**, criando interfaces que unam funcionalidade, clareza e uma boa experiência de uso.
 
+Quero desenvolver soluções orientadas às necessidades dos usuários, com atenção a **UI/UX** e à **acessibilidade**, para que todos possam navegar e interagir com autonomia. Busco aprimorar minhas habilidades a cada dia, unindo estudo e prática para transformar conhecimento em interfaces intuitivas e inclusivas.
+
+> “Nada de grandioso é criado de repente.”
+>
+> — [Epicteto, *Discursos*, I.15](https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1477/Epictetus_0755_EBk_v6.0.pdf#page=44) *(tradução livre)*
+
+<br />
 
 <div align="center">
 
@@ -146,7 +150,7 @@ Quero desenvolver soluções orientadas às necessidades dos usuários, com aten
 
 <h3 align="center">Projetos em destaque</h3>
 
-<h4><a href="https://github.com/vendio-systems">Vendio</a></h4>
+<h4><a href="https://github.com/vendio-systems">01 &nbsp; Vendio</a></h4>
 
 <p>
   Plataforma SaaS que integra ERP e e-commerce para simplificar a gestão de pequenos negócios, reunindo vendas, produtos, estoque, clientes e finanças em um único ambiente.
